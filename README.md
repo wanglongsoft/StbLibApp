@@ -12,9 +12,9 @@
 * OpenGLES 帧缓冲区使用，离屏渲染，读取显卡颜色数据，保存为本地图片
 * OpenGLES 简单的水印添加功能，同时采样多个纹理
 * 集成开源库stb，地址：https://github.com/nothings/stb
-#### 效果图，见本工程根目录images文件夹
+#### 效果图仅展示部分，所有效果请见本工程根目录images文件夹
 ![菜单](https://github.com/wanglongsoft/StbLibApp/tree/master/images/menu.png)
 ![相机预览](https://github.com/wanglongsoft/StbLibApp/tree/master/images/camera_preview.png)
 ![灵魂出窍](https://github.com/wanglongsoft/StbLibApp/tree/master/images/filter_soul_out.png)
-![怀旧](https://github.com/wanglongsoft/StbLibApp/tree/master/images/filter_nostalgia)
+![怀旧](https://github.com/wanglongsoft/StbLibApp/tree/master/images/filter_nostalgia.png)
 ![分屏](https://github.com/wanglongsoft/StbLibApp/tree/master/images/filter_split.png)
